@@ -3,10 +3,10 @@
   
     
     <entry>
-      <title>flox Test</title>
+      <title>Test</title>
       <link href="/2018/05/05/flox-Test/"/>
       <url>/2018/05/05/flox-Test/</url>
-      <content type="html"><![CDATA[<p>的规范化</p><a id="more"></a><p>结婚后激活即可好久好久</p>]]></content>
+      <content type="html"><![CDATA[<p> This is a test!</p><a id="more"></a><p> This is a test!<br> This is a image!</p><table><thead><tr><th>awe</th><th>awe</th><th>wee</th></tr></thead><tbody><tr><td>qwe</td><td>awe</td><td>qew </td></tr></tbody></table><p><img src="http://p7u6xjjhe.bkt.clouddn.com/2018-05-06-15255422737584.jpg" alt=""></p>]]></content>
       
       <categories>
           
@@ -17,7 +17,9 @@
       
         <tags>
             
-            <tag> Flog, test </tag>
+            <tag> Flog </tag>
+            
+            <tag> test </tag>
             
         </tags>
       
