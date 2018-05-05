@@ -25,18 +25,18 @@
     
     <entry>
       <title>demo01</title>
-      <link href="/2018/05/05/demo01/"/>
-      <url>/2018/05/05/demo01/</url>
-      <content type="html"><![CDATA[<p>这是个测试<br><a href="http://eganself.cn">个人网站</a><br><a href="http://www.baidu.com" target="_blank" rel="noopener">百度</a></p><p><strong>强调</strong><br>image</p><p><img src="http://p7u6xjjhe.bkt.clouddn.com/2018-05-05-15254572030067.jpg" alt=""></p>]]></content>
+      <link href="/2018/05/05/2018-05-05/"/>
+      <url>/2018/05/05/2018-05-05/</url>
+      <content type="html"><![CDATA[<h2 id="Md2All-简介"><a href="#Md2All-简介" class="headerlink" title="Md2All 简介"></a>Md2All 简介</h2><p>Markdown排版利器，支持 <strong>“一键排版”</strong> 的样式模板选择，支持自定义css,支持80多种代码高亮。<br>能让Markdown内容，无需作任何调整就能同时在微信公众号、博客园、掘金、知乎、csdn、51cto、wordpress、hexo。。。等平台正确显示当前预览的效果。<br>并能生成相应的Html文档。<br><a href="https://www.cnblogs.com/garyyan/p/8329343.html" target="_blank" rel="noopener">Md2All完整教程请参考：https://www.cnblogs.com/garyyan/p/8329343.html</a></p><h2 id="对-微信公众号-特别做了优化："><a href="#对-微信公众号-特别做了优化：" class="headerlink" title="对 微信公众号 特别做了优化："></a>对 <strong>微信公众号</strong> 特别做了优化：</h2><p>支持代码块，并解决常见的代码块换行不正确,特别是iPone、iPad上不能滚动的问题;<br>解决把内容粘贴到公众号时，图片、或样式丢失的问题;<br><a href="http://www.cnblogs.com/garyyan/p/8243696.html" target="_blank" rel="noopener">对公众号，我特别写了篇文章，请参考此博文：http://www.cnblogs.com/garyyan/p/8243696.html</a></p><p><img src="http://p7u6xjjhe.bkt.clouddn.com/2018-05-05-15254589672370.jpg" alt=""></p><a id="more"></a>]]></content>
       
       
     </entry>
     
     <entry>
       <title>demo01</title>
-      <link href="/2018/05/05/2018-05-05/"/>
-      <url>/2018/05/05/2018-05-05/</url>
-      <content type="html"><![CDATA[<h2 id="Md2All-简介"><a href="#Md2All-简介" class="headerlink" title="Md2All 简介"></a>Md2All 简介</h2><p>Markdown排版利器，支持 <strong>“一键排版”</strong> 的样式模板选择，支持自定义css,支持80多种代码高亮。<br>能让Markdown内容，无需作任何调整就能同时在微信公众号、博客园、掘金、知乎、csdn、51cto、wordpress、hexo。。。等平台正确显示当前预览的效果。<br>并能生成相应的Html文档。<br><a href="https://www.cnblogs.com/garyyan/p/8329343.html" target="_blank" rel="noopener">Md2All完整教程请参考：https://www.cnblogs.com/garyyan/p/8329343.html</a></p><h2 id="对-微信公众号-特别做了优化："><a href="#对-微信公众号-特别做了优化：" class="headerlink" title="对 微信公众号 特别做了优化："></a>对 <strong>微信公众号</strong> 特别做了优化：</h2><p>支持代码块，并解决常见的代码块换行不正确,特别是iPone、iPad上不能滚动的问题;<br>解决把内容粘贴到公众号时，图片、或样式丢失的问题;<br><a href="http://www.cnblogs.com/garyyan/p/8243696.html" target="_blank" rel="noopener">对公众号，我特别写了篇文章，请参考此博文：http://www.cnblogs.com/garyyan/p/8243696.html</a></p><p><img src="http://p7u6xjjhe.bkt.clouddn.com/2018-05-05-15254589672370.jpg" alt=""></p><a id="more"></a>]]></content>
+      <link href="/2018/05/05/demo01/"/>
+      <url>/2018/05/05/demo01/</url>
+      <content type="html"><![CDATA[<p>这是个测试<br><a href="http://eganself.cn">个人网站</a><br><a href="http://www.baidu.com" target="_blank" rel="noopener">百度</a></p><p><strong>强调</strong><br>image</p><p><img src="http://p7u6xjjhe.bkt.clouddn.com/2018-05-05-15254572030067.jpg" alt=""></p>]]></content>
       
       
     </entry>
