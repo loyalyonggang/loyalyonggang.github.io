@@ -3,6 +3,29 @@
   
     
     <entry>
+      <title>test</title>
+      <link href="/2018/05/07/test/"/>
+      <url>/2018/05/07/test/</url>
+      <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><a id="more"></a><ul><li><i class="fa fa-download"></i> 下载</li><li><i class="fa fa-download fa-lg"></i> 下载变大 33%</li><li><p><i class="fa fa-download fa-2x"></i> 下载两倍大</p></li><li><p><i class="fa fa-pencil"></i> 铅笔</p></li><li><i class="fa fa-cloud-upload"></i> 上传</li><li><i class="fa fa-download"></i> 下载</li></ul><span class="post-button text-center"><a class="btn" href="https://www.baidu.com" target="_blank" rel="noopener"><i class="fa fa-download fa-lg fa-fw"></i>点击下载百度</a></span>]]></content>
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+          <category> 效率 </category>
+          
+          <category> 解疑 </category>
+          
+          <category> 动态 </category>
+          
+          <category> 感悟 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    <entry>
       <title>建议|对建设江苏海洋大学的几点建议</title>
       <link href="/2018/05/07/AdviceToHHIT/"/>
       <url>/2018/05/07/AdviceToHHIT/</url>
